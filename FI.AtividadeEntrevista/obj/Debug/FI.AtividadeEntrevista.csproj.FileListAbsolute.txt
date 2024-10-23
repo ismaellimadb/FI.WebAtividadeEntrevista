@@ -1,0 +1,6 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Teste2\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Teste2\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Teste2\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Teste2\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Teste2\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Teste2\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
